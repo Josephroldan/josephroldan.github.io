@@ -65,15 +65,15 @@ object {
 img {
     border: 2px solid blue;
     border-radius: 25px;
-    height: 250px;
-    width: 450px;
-    margin-left: 100px;
-    margin-right: 100px;
+    height: 150px;
+    width: 350px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 #imggg {
-    height: 134px;
-    width: 377px;
+    width: 371px;
+    height: 573px
 }
 
 #imgg {
